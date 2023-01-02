@@ -1,0 +1,7 @@
+{
+  "name": "fleszevents-strapi-v4",
+  "version": "1.0.0",
+  "description": "Music platform. News about concerts and festivals (mainly in Poland).",
+  "author": "Arkadiusz Ciesielski",
+  "license": "MIT"
+}
