@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shared_geo_locations",
+  "info": {
+    "displayName": "GeoLocation",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "latitude": {
+      "type": "float"
+    },
+    "longitude": {
+      "type": "float"
+    },
+    "city": {
+      "type": "string"
+    },
+    "place": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "cms",
+  "private": true,
+  "version": "1.0.0",
+  "description": "CMS for FleszEvents app",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@_sh/strapi-plugin-ckeditor": "^1.1.2",
+    "@strapi/plugin-graphql": "^4.5.5",
+    "@strapi/plugin-i18n": "4.5.5",
+    "@strapi/plugin-seo": "^1.7.7",
+    "@strapi/plugin-users-permissions": "4.5.5",
+    "@strapi/strapi": "4.5.5",
+    "pg": "8.6.0",
+    "strapi-plugin-import-export-entries": "^1.18.0"
+  },
+  "author": {
+    "name": "Arkadiusz Ciesielski"
+  },
+  "strapi": {
+    "uuid": "440c11f8-9415-4a0c-88d0-fcdbbfd886db"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
