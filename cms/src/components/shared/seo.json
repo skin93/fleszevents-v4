@@ -1,7 +1,8 @@
 {
   "collectionName": "components_shared_seos",
   "info": {
-    "displayName": "seo"
+    "displayName": "seo",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -46,7 +47,8 @@
       "type": "string"
     },
     "canonicalURL": {
-      "type": "string"
+      "type": "string",
+      "default": "https://fleszevents.pl"
     }
   }
 }
